@@ -46,17 +46,7 @@ body {
 }
 
 
-.container {
-
-  width:
-    min(
-      var(--max),
-      calc(100% - 48px)
-    );
-
-  margin: auto;
-}
-
+.container { width: min(90%, 1200px); margin: 0 auto; }
 
 
 /* HEADER */
