@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dattero68-cloud.github.io/Parisyntax/sitemap.xml
